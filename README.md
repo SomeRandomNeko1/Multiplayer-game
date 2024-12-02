@@ -1,4 +1,8 @@
 # Multiplayer-game
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+uitleg opdracht
+
 SD - M10BO - Online mini game
 Als een gebruiker wil ik een eenvoudige en intuïtieve online mini game waarbij het mogelijk is om een met twee spelers tegen elkaar te spelen.
 Doel:
@@ -54,4 +58,13 @@ Oplevering
 Op maandag 31 januari 2025 tonen jullie de voltooide game aan de klas en geven jullie korte uitleg van het ontwikkelproces en demonstreer de gameplay.
 De opdracht lever je in door een git repository en eventueel een dump van je database in te leveren.
 Daarnaast moet je ook een link naar je website aanleveren.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Sprint 1
+
+de drie game ideeen zijn:
+1.tanks.io <---- dit word hem
+2.snake
+3.pong
+4.misschien mensergjeniet
 
