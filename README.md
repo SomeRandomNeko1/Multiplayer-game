@@ -68,3 +68,4 @@ de drie game ideeen zijn:
 3.pong
 4.misschien mensergjeniet
 
+de naam word furry tanks
